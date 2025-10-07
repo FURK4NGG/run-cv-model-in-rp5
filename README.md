@@ -1,4 +1,4 @@
-## 👀 run-cv-model-in-rp5 Overview         3/3  
+## 👀 run-cv-model-in-rp5 Overview  3/3  
 <h1 align="center">Run computer vision model in Rasberry Pi 5 AI HAT</h1>  
 
 
