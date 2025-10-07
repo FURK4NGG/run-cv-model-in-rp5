@@ -3,8 +3,8 @@
 
 
 ## 🔎 Preparation
-`/home/$USER/Desktop/yolo_hailo/yolov11n.hef`
-`Write each object class[rock,paper,scissors] on a new line in your that file:'/home/$USER/Desktop/yolo_hailo/labels.txt'`
+`/home/$USER/Desktop/yolo_hailo/yolov11n.hef`  
+`Write each object class[rock,paper,scissors] on a new line in your that file:'/home/$USER/Desktop/yolo_hailo/labels.txt'`  
 
 ## 📦 Setup  
 1. `cd /home/$USER/Desktop/yolo_hailo`
