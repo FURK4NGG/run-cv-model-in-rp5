@@ -3,6 +3,14 @@
 
 
 ## 🔎 Preparation
+Open your rasberry pi and follow these steps:
+1. `sudo raspi-config`
+2. `Advanced Options → PCIe Speed → Yes / Enable`
+5. `Interface Options → I2C → Yes / Enable`
+6. `Interface Options → SSH → Yes / Enable`
+7. `Interface Options → RPI Connect|VNC → Yes / Enable`
+
+
 `/home/$USER/Desktop/yolo_hailo/yolov11n.hef`  
 `Write each object class[rock,paper,scissors] on a new line in your that file:'/home/$USER/Desktop/yolo_hailo/labels.txt'`  
 
