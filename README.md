@@ -3,12 +3,12 @@
 
 
 ## 🔎 Preparation
-Open your rasberry pi and follow these steps:
+Open your raspberry pi and follow these steps:
 1. `sudo raspi-config`
 2. `Advanced Options → PCIe Speed → Yes / Enable`
 3. `Interface Options → I2C → Yes / Enable`  
 
-**Only for connect the rasberry pi remotely:**  
+**Only for connect the raspberry pi remotely:**  
     1. `Interface Options → SSH → Yes / Enable`  
     2. `Interface Options → RPI Connect|VNC → Yes / Enable`  
 
