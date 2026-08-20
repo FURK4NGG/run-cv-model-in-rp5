@@ -24,5 +24,6 @@ Open your rasberry pi and follow these steps:
 5. `cd picamera2`
 6. `pip install -e . --break-system-packages`
 7. `cd examples/hailo`
-8. `python detect.py --model /home/$USER/Desktop/yolo_hailo/yolov11n.hef --labels /home/$USER/Desktop/yolo_hailo/labels.txt`
 
+## 🎉 Run
+`python detect.py --model /home/$USER/Desktop/yolo_hailo/yolov11n.hef --labels /home/$USER/Desktop/yolo_hailo/labels.txt`
