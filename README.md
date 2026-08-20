@@ -13,7 +13,7 @@ Open your rasberry pi and follow these steps:
     2. `Interface Options → RPI Connect|VNC → Yes / Enable`  
 
 
-`/home/$USER/Desktop/yolo_hailo/yolov11n.hef`  
+`/home/$USER/Desktop/yolo_hailo/yolov11l.hef`  
 `Write each object class[bear,boar,deer,wolf,cow,person,dog] on a new line in your that file:'/home/$USER/Desktop/yolo_hailo/labels.txt'`  
 
 ## 📦 Setup  
