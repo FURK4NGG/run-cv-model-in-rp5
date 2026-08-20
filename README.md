@@ -28,7 +28,7 @@ Open your rasberry pi and follow these steps:
 ## 🎉 Run
 `python detect.py --model /home/$USER/Desktop/yolo_hailo/yolov11n.hef --labels /home/$USER/Desktop/yolo_hailo/labels.txt`
 <details>
-<summary>## 🛠️ Picamera2 and Camera Module 3 NoIR Compatibility</summary>
+<summary>🛠️ Picamera2 and Camera Module 3 NoIR Compatibility</summary>
 The following error is not caused by the HEF model. It occurs because the `detect.py` file from the GitHub repository is incompatible with the version of Picamera2 installed on the Raspberry Pi:
 
 ```text
