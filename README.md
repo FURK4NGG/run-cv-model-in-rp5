@@ -1,5 +1,5 @@
 ## 👀 run-cv-model-in-rp5 Overview  3/3  
-<h1 align="center">Run computer vision model in Rasberry Pi 5 AI HAT</h1>  
+<h1 align="center">Run computer vision model in Raspberry Pi 5 AI HAT</h1>  
 
 
 ## 🔎 Preparation
@@ -23,6 +23,6 @@ Open your rasberry pi and follow these steps:
 4. `git clone -b next https://github.com/raspberrypi/picamera2.git`
 5. `cd picamera2`
 6. `pip install -e . --break-system-packages`
-7. `cd picamera2/examples/hailo`
+7. `cd examples/hailo`
 8. `python detect.py --model /home/$USER/Desktop/yolo_hailo/yolov11n.hef --labels /home/$USER/Desktop/yolo_hailo/labels.txt`
 
