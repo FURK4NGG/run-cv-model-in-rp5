@@ -14,7 +14,7 @@ Open your rasberry pi and follow these steps:
 
 
 `/home/$USER/Desktop/yolo_hailo/yolov11n.hef`  
-`Write each object class[bear,boar,] on a new line in your that file:'/home/$USER/Desktop/yolo_hailo/labels.txt'`  
+`Write each object class[bear,boar,deer,wolf,cow,person,dog] on a new line in your that file:'/home/$USER/Desktop/yolo_hailo/labels.txt'`  
 
 ## 📦 Setup  
 1. `cd /home/$USER/Desktop/yolo_hailo`
