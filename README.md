@@ -14,7 +14,7 @@ Open your rasberry pi and follow these steps:
 
 
 `/home/$USER/Desktop/yolo_hailo/yolov11n.hef`  
-`Write each object class[rock,paper,scissors] on a new line in your that file:'/home/$USER/Desktop/yolo_hailo/labels.txt'`  
+`Write each object class[bear,boar,] on a new line in your that file:'/home/$USER/Desktop/yolo_hailo/labels.txt'`  
 
 ## 📦 Setup  
 1. `cd /home/$USER/Desktop/yolo_hailo`
@@ -26,7 +26,7 @@ Open your rasberry pi and follow these steps:
 7. `cd examples/hailo`
 
 ## 🎉 Run
-`python detect.py --model /home/$USER/Desktop/yolo_hailo/yolov11n.hef --labels /home/$USER/Desktop/yolo_hailo/labels.txt`
+`python detect.py --model /home/$USER/Desktop/yolo_hailo/yolov11l.hef --labels /home/$USER/Desktop/yolo_hailo/labels.txt`
 <details>
 <summary>🛠️ Picamera2 and Camera Module 3 NoIR Compatibility</summary>
 The following error is not caused by the HEF model. It occurs because the `detect.py` file from the GitHub repository is incompatible with the version of Picamera2 installed on the Raspberry Pi:
